@@ -1,1 +1,24 @@
-
+{
+  "app": "Auto JOY",
+  "latest": "1.0.0",
+  "download": "https://drive.google.com/drive/folders/166yWH6BHx02dABk6Op-Q0k3BiMGqUsb4?usp=sharing",
+  "notes": [
+    {
+      "version": "1.0.0",
+      "date": "2026-10-08",
+      "items": [
+        "첫 배포 버전입니다"
+      ]
+    }
+  ],
+  "codes": [
+    "0591c66e91f0391017145f788de8d9e7",
+    "661cb2b25403df550918c891f7f11c12",
+    "f67e135dd31f64342299046129c62cf5"
+  ],
+  "names": {
+    "0591c66e91f0391017145f788de8d9e7": "9v30ebHSRYalWcCenWC+Sa+laQxf0zLunoFqRf8qOKfXGw==",
+    "661cb2b25403df550918c891f7f11c12": "R5yCVj+ocTcg1U6Dzruxi6ChG3xGLGX2yQMeCNyVlbQvMf8A4Q==",
+    "f67e135dd31f64342299046129c62cf5": "dH0PJlBIm7BJtMDF6uAeR9nA7PWA9N6InhOQfnckfQ=="
+  }
+}
