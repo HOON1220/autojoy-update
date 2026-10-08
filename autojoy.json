@@ -1,8 +1,15 @@
 {
   "app": "Auto JOY",
-  "latest": "1.0.0",
+  "latest": "1.0.1",
   "download": "https://drive.google.com/drive/folders/166yWH6BHx02dABk6Op-Q0k3BiMGqUsb4?usp=sharing",
   "notes": [
+    {
+      "version": "1.0.1",
+      "date": "2026-10-08",
+      "items": [
+        "1.0.1"
+      ]
+    },
     {
       "version": "1.0.0",
       "date": "2026-10-08",
