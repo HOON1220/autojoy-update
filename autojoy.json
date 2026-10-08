@@ -1,13 +1,20 @@
 {
   "app": "Auto JOY",
-  "latest": "1.0.1",
+  "latest": "1.0.2",
   "download": "https://drive.google.com/drive/folders/166yWH6BHx02dABk6Op-Q0k3BiMGqUsb4?usp=sharing",
   "notes": [
+    {
+      "version": "1.0.2",
+      "date": "2026-10-08",
+      "items": [
+        "읽기 속도를 1.0이 아닌 값으로 두고 음성을 만들면 장면과 어긋나던 문제를 고쳤습니다"
+      ]
+    },
     {
       "version": "1.0.1",
       "date": "2026-10-08",
       "items": [
-        "1.0.1"
+        "초대 코드를 넣을 때 코드가 ●●●●로 가려집니다 (눈 버튼으로 보기)"
       ]
     },
     {
