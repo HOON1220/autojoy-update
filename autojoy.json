@@ -1,8 +1,16 @@
 {
   "app": "Auto JOY",
-  "latest": "1.0.5",
+  "latest": "1.0.6",
   "download": "https://drive.google.com/drive/folders/166yWH6BHx02dABk6Op-Q0k3BiMGqUsb4?usp=sharing",
   "notes": [
+    {
+      "version": "1.0.6",
+      "date": "2026-10-10",
+      "items": [
+        "자막 한 줄 쓰기가 짧게 토막토막 나오던 것을 화면 폭에 맞게 길게 고쳤습니다",
+        "카메라 움직임이 더 역동적으로 바뀌었습니다: 섞인 움직임 8가지, 부드러운 출발·도착, 긴 장면도 끝까지 움직임, 영상 처음 30초는 더 빠르게"
+      ]
+    },
     {
       "version": "1.0.5",
       "date": "2026-10-10",
