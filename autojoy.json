@@ -1,8 +1,15 @@
 {
   "app": "Auto JOY",
-  "latest": "1.0.4",
+  "latest": "1.0.5",
   "download": "https://drive.google.com/drive/folders/166yWH6BHx02dABk6Op-Q0k3BiMGqUsb4?usp=sharing",
   "notes": [
+    {
+      "version": "1.0.5",
+      "date": "2026-10-10",
+      "items": [
+        "장면 미리 재생에 전체 영상 길이가 표시됩니다"
+      ]
+    },
     {
       "version": "1.0.4",
       "date": "2026-10-10",
