@@ -1,8 +1,15 @@
 {
   "app": "Auto JOY",
-  "latest": "1.0.6",
+  "latest": "1.0.7",
   "download": "https://drive.google.com/drive/folders/166yWH6BHx02dABk6Op-Q0k3BiMGqUsb4?usp=sharing",
   "notes": [
+    {
+      "version": "1.0.7",
+      "date": "2026-10-10",
+      "items": [
+        "빈 줄 없이 줄바꿈만 있는 대본에서 장면 개수가 바뀌지 않던 문제를 고쳤습니다"
+      ]
+    },
     {
       "version": "1.0.6",
       "date": "2026-10-10",
