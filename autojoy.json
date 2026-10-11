@@ -1,8 +1,15 @@
 {
   "app": "Auto JOY",
-  "latest": "1.0.8",
+  "latest": "1.0.9",
   "download": "https://drive.google.com/drive/folders/166yWH6BHx02dABk6Op-Q0k3BiMGqUsb4?usp=sharing",
   "notes": [
+    {
+      "version": "1.0.9",
+      "date": "2026-10-11",
+      "items": [
+        "장면 전환 디졸브가 들어간 뒤 영상 만들기(인코딩)가 2~3배 느려지던 문제를 고쳤습니다 (화질은 그대로)"
+      ]
+    },
     {
       "version": "1.0.8",
       "date": "2026-10-11",
