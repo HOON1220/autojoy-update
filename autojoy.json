@@ -1,8 +1,23 @@
 {
   "app": "Auto JOY",
-  "latest": "1.0.10",
+  "latest": "1.0.11",
   "download": "https://drive.google.com/drive/folders/166yWH6BHx02dABk6Op-Q0k3BiMGqUsb4?usp=sharing",
   "notes": [
+    {
+      "version": "1.0.11",
+      "date": "2026-10-17",
+      "items": [
+        "대본의 줄바꿈을 음성에도 그대로 보내서, 줄이 바뀌는 곳에서 쉬어 읽도록 했습니다",
+        "대본 교정 기능을 뺐습니다",
+        "장면 사이 쉼 기본값을 0.4초로 바꿨습니다",
+        "음성을 대본 한 줄씩 따로 읽도록 했습니다 (Typecast 홈페이지 방식, ElevenLabs·Typecast 모두 기본) — 읽을수록 빨라지고 쉼이 없어지던 문제, 왼쪽 [음성 묶음]에서 바꿀 수 있음",
+        "음성 설정의 '추천' 표시를 '기본'으로 바꾸고, ElevenLabs 스타일 기본값을 0, Typecast 감정 기본값을 '보통'으로 맞췄습니다 (엔진 자체 기본값과 같게)",
+        "ElevenLabs 크레딧이 떨어졌을 때 'API 키가 올바르지 않습니다' 대신 '남은 글자 수(크레딧)가 부족합니다'로 정확히 알려 주도록 고쳤습니다",
+        "줄마다 따로 읽을 때 줄이 바뀌는 곳의 쉼을 1초로 맞추는 [줄 사이 쉼] 설정을 넣었습니다 (ElevenLabs가 줄바꿈에서 붙여 읽던 문제)",
+        "ElevenLabs 예상 비용을 공식 요금표에 맞췄습니다 (Flash 1,000자당 $0.04 · Multilingual v2 $0.08 — 예전엔 조금 비싸게 표시됨)",
+        "ElevenLabs 모델에 v4 Turbo(최신)를 넣었습니다 (Flash와 같은 값, 1,000자당 $0.04)"
+      ]
+    },
     {
       "version": "1.0.10",
       "date": "2026-10-15",
