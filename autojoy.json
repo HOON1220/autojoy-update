@@ -1,8 +1,15 @@
 {
   "app": "Auto JOY",
-  "latest": "1.0.12",
+  "latest": "1.0.13",
   "download": "https://drive.google.com/drive/folders/166yWH6BHx02dABk6Op-Q0k3BiMGqUsb4?usp=sharing",
   "notes": [
+    {
+      "version": "1.0.13",
+      "date": "2026-10-23",
+      "items": [
+        "영상 클립 카메라가 너무 빠르게 돌던 것을 차분하고 꾸준한 움직임으로 바꾸고, 인물도 실제 사람 속도로 움직이게 했습니다 (빨리 걷기·과장된 동작 줄임)"
+      ]
+    },
     {
       "version": "1.0.12",
       "date": "2026-10-23",
