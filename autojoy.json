@@ -1,8 +1,15 @@
 {
   "app": "Auto JOY",
-  "latest": "1.0.14",
+  "latest": "1.0.15",
   "download": "https://drive.google.com/drive/folders/166yWH6BHx02dABk6Op-Q0k3BiMGqUsb4?usp=sharing",
   "notes": [
+    {
+      "version": "1.0.15",
+      "date": "2026-10-28",
+      "items": [
+        "영상 클립: 그림에 사람이 없는 장면(기계·동물·바다·풍경)에 사람이 튀어나오던 문제 고침 — 사람이 없으면 사람을 넣지 말라고 지시하고 '인물 따라가기' 카메라를 쓰지 않음, 직접 적은 움직임은 AI가 영어로 옮겨 보냄"
+      ]
+    },
     {
       "version": "1.0.14",
       "date": "2026-10-28",
