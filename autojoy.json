@@ -1,8 +1,15 @@
 {
   "app": "Auto JOY",
-  "latest": "1.0.15",
+  "latest": "1.0.16",
   "download": "https://drive.google.com/drive/folders/166yWH6BHx02dABk6Op-Q0k3BiMGqUsb4?usp=sharing",
   "notes": [
+    {
+      "version": "1.0.16",
+      "date": "2026-11-12",
+      "items": [
+        "장면 카드 [내 이미지·영상 넣기]: 그림뿐 아니라 영상(mp4·mov·webm 등)도 넣을 수 있음 — 영상은 소리를 빼고 영상 클립으로 들어가고 첫 화면이 장면 그림이 됨. 끌어다 놓기·한꺼번에 넣기·장면 넣기도 영상 가능"
+      ]
+    },
     {
       "version": "1.0.15",
       "date": "2026-10-28",
